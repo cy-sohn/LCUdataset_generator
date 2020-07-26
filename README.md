@@ -1,7 +1,7 @@
 #### LCU Dataset Generator
 
 ![Line Chart Understanding Dataset Generator](data/LCU_dataset.png)
-![Data Label](data/label.png)
+![Data Label](data/label_vector.png)
 
 You can use this for training Neural Networks. 
 It makes randomized chart images and label.csv.
