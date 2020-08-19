@@ -1,10 +1,10 @@
 #### LCU Dataset Generator
 
 ![Line Chart Understanding Dataset Generator](data/LCU_dataset.png)
-![Data Label](data/label_vector.png)
 
-You can use this for training Neural Networks. 
-It makes randomized chart images and label.csv.
+This data generator is created for neural network supervised learning to understand line charts.
+Images produce real-world-like data based on a variety of attributes. This dataset can be used to solve regression problems and classification of predefined subtasks.
+When you create an image, labels are automatically created according to the meaning the chart describes.
 
 Tested on **Windows** for Python **3.7**.
 Anaconda 4.8.2 and Jupyter-lab
@@ -14,3 +14,5 @@ To start LCU dataset generator:
 ```shell
 # run main.ipynb
 ```
+
+![Data Label](data/label_vector.png)
