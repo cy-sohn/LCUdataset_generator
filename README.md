@@ -1,4 +1,4 @@
-#### LCU Dataset Generator
+#### LCU Dataset Generator For Line Chart Understanding
 
 ![Line Chart Understanding Dataset Generator](data/LCU_dataset.png)
 
