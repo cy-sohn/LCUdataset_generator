@@ -14,5 +14,3 @@ To start LCU dataset generator:
 ```shell
 # run main.ipynb
 ```
-
-![Data Label](data/label_vector.png)
